@@ -1,0 +1,5 @@
+Oct 15 13:08:59 habeeb-VirtualBox rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="708" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Oct 15 13:09:55 habeeb-VirtualBox anacron[711]: Job `cron.daily' terminated (mailing output)
+Oct 15 13:09:55 habeeb-VirtualBox anacron[711]: anacron: Can't find sendmail at /usr/sbin/sendmail, not mailing output
+Oct 15 13:09:55 habeeb-VirtualBox anacron[711]: Can't find sendmail at /usr/sbin/sendmail, not mailing output
+Oct 15 13:09:55 habeeb-VirtualBox anacron[711]: Normal exit (1 job run)
